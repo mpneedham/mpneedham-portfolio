@@ -6,4 +6,4 @@ I am a United States Army War College Fellow in Information Technology and Strat
 
 I have twenty-one years of military service serving as an Army Field Artillery Officer and an [Operations Research Systems Analyst (ORSA)](https://www.fa49.army.mil/index.html).  ORSAs provide the Army uniquely skilled officers -- problem solvers -- who produce analysis and decision support products to underpin critical decisions by leaders and managers at all levels of the Department of Defense (DoD).
 
-<img src="FA49LOGO.jpg" alt="FA49 Logo">
+<img src="/mpneedham-portfolio/FA49LOGO.jpg">
