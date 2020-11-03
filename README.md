@@ -10,4 +10,4 @@ This is my public portfolio for the Telling Stories with Data class at Carenegie
 An ORSA must be able to communicate the problem, analysis, and recommendations in an efficient, accurate, and compelling manner both written and orally.  Data visualization is critical for presenting decision-makers with complex data to focus the discussion.  I look forward to learning various data visualization techniques and tools, but also how to design effective visualizations.  Critique is an important way to improve, and I look forward to learning critique techniques and well as receiving class feedback.
 
 # Portfolio
-Stay tuned for some data visualizations
+Stay tuned for some data visualizations.
