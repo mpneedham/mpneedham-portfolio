@@ -16,3 +16,12 @@ Interested in a specific OECD country's government debt, you can find it below:
 How does historical government debt for Japan compare to the United States of America?
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4295074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+
+# Same Data - Three Different Perspectives
+
+Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization. 
+
+You should now have three data visualizations on your page - the government debt bar chart, the grid of line charts and a third data visualization of your choosing using the same data, generated using Flourish. 
