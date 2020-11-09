@@ -6,7 +6,7 @@ Government debt for The Organization for Economic Co-operation and Development (
 
 
 # Visualizing the data using Flourish
-Interested in a specific OECD countries government debt, you can find it below:
+Interested in a specific OECD country's government debt, you can find it below:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4279484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
