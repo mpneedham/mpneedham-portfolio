@@ -1,12 +1,15 @@
 # Visualizing Government Dept
 
-Below is a chart from The Organization for Economic Co-operation and Development (OECD) website: 
+The government dept chart below is from The Organization for Economic Co-operation and Development (OECD) website for member countries: 
 <iframe src="https://data.oecd.org/chart/69DK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69DK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-# Government Debt (1995-2019)
+# Visualizing the data using Flourish
+Interested in a specific OECD countries government debt, you can find it in the charts below.  
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/4279484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-# Government Debt Redesign (1995-2019)
+How does Japan's government debt compare to the United States of Americas?
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/4295074"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
