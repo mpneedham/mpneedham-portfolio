@@ -1,4 +1,4 @@
-# Visualizing Government Dept
+# Visualizing Government Debt
 
 Government debt for The Organization for Economic Co-operation and Development (OECD) member countries: 
 
