@@ -9,7 +9,13 @@ This is my public portfolio for the Telling Stories with Data class at Carenegie
 # What I Hope to Learn
 An ORSA must be able to communicate the problem, analysis, and recommendations in an efficient, accurate, and compelling manner both written and orally.  Data visualization is critical for presenting complex data to focus the discussion with decision-makers.  I look forward to learning various data visualization techniques and tools, but also how to design effective visualizations.  Critique is an important way to improve, and I look forward to learning critique techniques and well as receiving class feedback.
 
-# Portfolio
-Visualizing Government Dept - Comparison of 2018 debt-to-GDP ratios
+
+# My Visualization Portfolio
+
+[Visualizing Government Debt - Comparison of OECD Countries](/dataviz2.md)
+  - Embeds chart directly from OECD website for 2018
+  - Uses Flourish to build two visualizations from teh OECD data
+  - Describes the three data visualizations and how they compare
+
 
 Stay tuned for some data visualizations.
