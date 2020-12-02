@@ -27,13 +27,24 @@ Simple, relevant information to build the problem.  Here it is:
 <img src="/mpneedham-portfolio/Carryover Story 2a.jpeg" alt="Carryover2a" width="300"> <img src="/mpneedham-portfolio/Carryover Story 2b.jpeg" alt="Carryover2b" width="300">
 <img src="/mpneedham-portfolio/Carryover Story 2c.jpeg" alt="Carryover2c" width="300">
 
+So it may still look messy, but it builds through a series of charts the story of the U.S. Army's carryover challenge.  Only in the narrative does it briefly introduce two aspects, budget and workforce, that contributed to the issue.  There is likely more to the issue, and the last frame, the call to action, identifies five other areas to be explored further.  
 
+# User research and interviews
+Getting feedback on initial design is important to ensure the proper points are being made.  There were three different groups I focused my research, no miltary experience, military experience, but not budget related, and military experience with budget related carryover experience.  This approach gives me the most information to determine how to best present the information.
 
+The questions below were used for two groups, no military experience and military experience, but not budget related.
+- Can you tell me what you think I am working on?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
 
-
-# About Me
-[<img src="/mpneedham-portfolio/Carryover 1a.jpg" alt="Carryover1a" width="500">] 
-next2
+The questions below were used for an individual who is familiar with carryover:
+- Does the intro flow?  
+- Are there areas that should be included for readers having no idea about carryover or depot maintenance?
+- The carryover calculation, are each of teh descriptions clear and accurate?
+- As it builds from 2006 to 2019, what do you think is the takeaway?  Any other areas I should include?
+- The final slide, what does this lead you to?
 
 
 
