@@ -14,7 +14,7 @@ An ORSA must be able to communicate the problem, analysis, and recommendations i
 
 [Visualizing Government Debt - Comparison of OECD Countries](/dataviz2.md)
   - Embeds chart directly from OECD website for 2018
-  - Uses Flourish to build two visualizations from teh OECD data
+  - Uses Flourish to build two visualizations from the OECD data
   - Describes the three data visualizations and how they compare
 
 [Department of Defense: Depot Maintenance Carryover - A Perspective of Complex Calculations and Uncertainty Impacting the U.S. Army](/final_project_carryover.md)
