@@ -8,7 +8,8 @@ How do I take such a complicated issue and break it apart?  It is difficult for 
 
 # Take 1:  Setup, Conflict, Problem, Resolution
 Four steps to build my storyboard, four steps to make things complicated.  Here is what I started with:
-img src="/mpneedham-portfolio/Carryover Story 1a.jpeg" alt="Carryover1a" width="500">
+
+<img src="/mpneedham-portfolio/Carryover Story 1a.jpeg" alt="Carryover1a" width="500">
 
 # About Me
 [<img src="/mpneedham-portfolio/Carryover 1a.jpg" alt="Carryover1a" width="500">] 
