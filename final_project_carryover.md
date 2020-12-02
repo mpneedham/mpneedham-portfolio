@@ -23,6 +23,7 @@ If you try to read it, it is a mess.  There is a lot going on.  I definately rea
 
 # Take 2:  Setup, Conflict, Problem, Resolution
 Simple, relevant information to build the problem.  Here it is:
+
 <img src="/mpneedham-portfolio/Carryover Story 2a.jpeg" alt="Carryover2a" width="300"> <img src="/mpneedham-portfolio/Carryover Story 2b.jpeg" alt="Carryover2b" width="300">
 <img src="/mpneedham-portfolio/Carryover Story 2c.jpeg" alt="Carryover2c" width="300">
 
